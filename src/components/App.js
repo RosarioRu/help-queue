@@ -7,11 +7,7 @@ function App() {
   return(
     <React.Fragment>
       <Header />
-      <h3>2a</h3>
-      <h3>{name} and {name2}</h3>
-      <p><em>Firebase entries not saving!</em></p>
-      {/* This is a JSX comment. */}
-      <hr/>
+      <TicketList />
     </React.Fragment>
   );
 }
