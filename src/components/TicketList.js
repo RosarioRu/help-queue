@@ -10,7 +10,7 @@ const mainTicketList = [
   {
     names: "Sleater and Kinney",
     location: "4B",
-    issues: "Prop types are throwing an error."
+    issue: "Prop types are throwing an error."
   },
   {
     names: "Imani & Jacob",
